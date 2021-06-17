@@ -3,4 +3,3 @@
   css prodect card</a> by qwe123coder (<a href="https://codepen.io/qwe123coder">@qwe123coder</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
